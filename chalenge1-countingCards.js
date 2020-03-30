@@ -48,6 +48,6 @@ function cc(card) {
   return count + " " + holdbet;
 }
 
-cc(2);
-cc(3);
+cc(10);
+cc(10);
 console.log(cc());
